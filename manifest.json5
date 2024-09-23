@@ -7,8 +7,8 @@
     "label": "AI Office",
     "deployDomain": "github.com",
     "icons": {
-      "normal": "https://img.icons8.com/color/48/remind-app.png",
-      "large": "https://img.icons8.com/color/48/remind-app.png"
+      "normal": "https://github.com/mhlee0514/remote-jobs/blob/mhlee0514-patch-1/app_icon.png",
+      "large": "https://github.com/mhlee0514/remote-jobs/blob/mhlee0514-patch-1/app_icon.png"
     },
     "minAPIVersion": "4.1.0(11)",
     "targetAPIVersion": "4.1.0(11)",
