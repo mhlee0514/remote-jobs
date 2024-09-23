@@ -10,8 +10,8 @@
       "normal": "https://github.com/mhlee0514/remote-jobs/blob/mhlee0514-patch-1/app_icon.png",
       "large": "https://github.com/mhlee0514/remote-jobs/blob/mhlee0514-patch-1/app_icon.png"
     },
-    "minAPIVersion": "4.1.0(11)",
-    "targetAPIVersion": "4.1.0(11)",
+    "minAPIVersion": "5.0.0(12)",
+    "targetAPIVersion": "5.0.0(12)",
     "modules": [
       {
         "name": "entry",
